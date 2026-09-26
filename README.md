@@ -7,13 +7,13 @@ Social links:
 
 # What is Plustendo?
 
-Plustendo is an add-on network that works alongside Nintendo and Pretendo networks. It allows players to access additional servers and features while keeping full compatibility with Pretendo services.
+Plustendo is an **add-on network** that works alongside Nintendo and Pretendo networks. It allows players to access additional servers and features while keeping full compatibility with Pretendo services.
 
 Whether you want to expand your online gaming options or keep playing Pretendo servers, Plustendo has you covered.
 
 # Why does Plustendo exist?
 
-Plustendo exists to enhance your 3DS online experience without replacing Pretendo, letting you play extra games, while still using your Pretendo profile.
+Plustendo exists to **enhance your 3DS online experience** without replacing Pretendo, letting you play extra games, while still using your Pretendo profile.
 
 Think of it as an upgrade rather than a replacement.
 

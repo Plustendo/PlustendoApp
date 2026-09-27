@@ -87,5 +87,5 @@ Plustendo is an independent, community-driven project and is **not affiliated wi
 
 ## Support
 
-The website [plustendo.com](https://plustendo.com) let you access the full game list, setup instructions and live lobby list. 
-Join our Discord server to connect with our community at: [discord.gg/sUw9T8HV3j](https://discord.gg/sUw9T8HV3j)
+- The website [plustendo.com](https://plustendo.com) let you access the full game list, setup instructions and live lobby list. 
+- Join our Discord server to connect with our community at: [discord.gg/sUw9T8HV3j](https://discord.gg/sUw9T8HV3j)

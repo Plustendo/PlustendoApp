@@ -75,10 +75,11 @@ A reboot is required after applying.
 - [libctru](https://github.com/devkitPro/libctru) - 3DS homebrew library
 - [pp2d](https://github.com/BernardoGiordano/pp2d) - Drawing library
 - [curl](https://curl.se/) - HTTP client library
+- [WifiManager](https://github.com/LiquidFenrir/WifiManager) - WiFi slot management
 
 **Inspired by:**
 - [Pretendo](https://pretendo.network/) - Custom Nintendo Network servers
-- [WifiManager](https://github.com/LiquidFenrir/WifiManager) - WiFi slot management
+- [Universal-Updater](https://github.com/Universal-Team/Universal-Updater) An easy to use app for installing and updating 3DS homebrew
 
 ## Disclaimer
 

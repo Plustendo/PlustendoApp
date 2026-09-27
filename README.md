@@ -2,7 +2,7 @@
 Social links:
 - Website: [Plustendo.com](https://plustendo.com)
 - Discord: [Join our Discord](https://discord.gg/sUw9T8HV3j)  
-- YouTube Trailer: [Release Trailer link](https://youtu.be/vjgQ9Oymfqc))
+- YouTube Trailer: [Release Trailer link](https://youtu.be/vjgQ9Oymfqc)
 <p align="left"> <a href="https://discord.gg/sUw9T8HV3j" target="_blank"> <img src="https://discordapp.com/api/guilds/1421512717075873956/widget.png?style=banner2"> </a> </p>
 
 # What is Plustendo?
